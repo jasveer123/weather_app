@@ -23,3 +23,11 @@ In frontend i used handelbars and css which gave dynamic look to the app the app
 ![Screenshot from 2021-08-01 18-54-02](https://user-images.githubusercontent.com/51202726/127772541-c82086a9-50d9-45a8-8412-72e33015a44f.png)
 
 
+
+
+
+# api used in this app is from the website
+
+https://openweathermap.org/api
+
+
