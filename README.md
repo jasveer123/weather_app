@@ -16,5 +16,5 @@ In frontend i used handelbars and css which gave dynamic look to the app the app
 
 
 
-# result of weather shown as somethink like following
+# result of weather shown as something like following
 
