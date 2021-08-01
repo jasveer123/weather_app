@@ -38,11 +38,11 @@ https://openweathermap.org/api
 
 3.)there you see different api link
 
-4.) select as your requirment 
+4.)select as your requirment 
 
-5.) the generate api key from the account section api takestime to activate
+5.)the generate api key from the account section api takestime to activate
 
-6) paste the api key in the link of api and use them in the project
+6)paste the api key in the link of api and use them in the project
 
 
 # project is hosted on the 
