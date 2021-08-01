@@ -18,3 +18,7 @@ In frontend i used handelbars and css which gave dynamic look to the app the app
 
 # result of weather shown as something like following
 
+
+
+![Screenshot from 2021-08-01 18-35-45](https://user-images.githubusercontent.com/51202726/127771927-24aa3ce5-613c-4c2a-8c24-04f7bfa6d660.png)
+
