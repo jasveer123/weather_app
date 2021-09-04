@@ -45,6 +45,3 @@ https://openweathermap.org/api
 6)paste the api key in the link of api and use them in the project
 
 
-# project is hosted on the 
-
-
